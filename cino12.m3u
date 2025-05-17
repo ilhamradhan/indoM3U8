@@ -7,22 +7,7 @@ https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
 https://link.zozotv.xyz:443/live/usez37/zxy921/47.ts
 http://xtv.ooo:8080/live/danyear12/am809100/351023.ts
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,FRAME-RATE=25.000,RESOLUTION=960x540
-http://edge.linknetott.swiftserve.com/channelgroup2/cg234production/ch329/02.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,FRAME-RATE=25.000,RESOLUTION=320x240
-http://edge.linknetott.swiftserve.com/channelgroup2/cg234production/ch329/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,FRAME-RATE=25.000,RESOLUTION=960x540
-http://edge.linknetott.swiftserve.com/channelgroup2/cg234production/ch329/03.m3u8
-
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-https://link.zozotv.xyz:443/live/usez37/zxy921/791.ts
-https://link.zozotv.xyz:443/live/usez37/zxy921/802.ts
-
-#EXTINF:1,
-https://link.zozotv.xyz:443/live/usez37/zxy921/792.ts
-
+#EXTINF: 0, RCTI2
 #EXT-X-VERSION:5
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-mp4a_66000_ind=2.m3u8",GROUP-ID="audio-AACL-66",LANGUAGE="id",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-mp4a_98800_ind=3.m3u8",GROUP-ID="audio-AACL-99",LANGUAGE="id",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
