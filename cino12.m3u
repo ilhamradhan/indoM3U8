@@ -1,33 +1,25 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="RCTI - [Channel 20].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png" group-title="TV Nasional ",RCTI
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2701.ts
-https://link.zozotv.xyz:443/live/usez37/zxy921/47.ts
-http://xtv.ooo:8080/live/danyear12/am809100/351023.ts
+https://raw.githubusercontent.com/warningfm/kano/main/video/ts/mn1.m3u8
+#EXTINF:1, SCTVHD
+https://raw.githubusercontent.com/warningfm/kano/main/video/ts/204.m3u8
+#EXTINF:1, MNCTV
+https://raw.githubusercontent.com/warningfm/kano/main/video/ts/mn2.m3u8
+#EXTINF:1, Trans7
+https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/id/cdd283c9d3d43b6.m3u8
+#EXTINF:1, TransTV
+https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/id/61061784f4a9270.m3u8
 
-#EXTINF: 0, RCTI2
-#EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-mp4a_66000_ind=2.m3u8",GROUP-ID="audio-AACL-66",LANGUAGE="id",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-mp4a_98800_ind=3.m3u8",GROUP-ID="audio-AACL-99",LANGUAGE="id",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-STREAM-INF:BANDWIDTH=248169,AVERAGE-BANDWIDTH=225609,CODECS="avc1.42e014,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-66"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_149952=4.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=284609,AVERAGE-BANDWIDTH=258737,CODECS="avc1.42e014,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-99"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_149952=4.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=364806,AVERAGE-BANDWIDTH=331643,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-66"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_249984=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=401246,AVERAGE-BANDWIDTH=364771,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-99"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_249984=1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=656287,AVERAGE-BANDWIDTH=596626,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-66"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_499968=5.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=692727,AVERAGE-BANDWIDTH=629754,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-99"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_499968=5.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1239325,AVERAGE-BANDWIDTH=1126660,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-66"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_1000000=6.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1275765,AVERAGE-BANDWIDTH=1159788,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-99"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_1000000=6.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2988287,AVERAGE-BANDWIDTH=2716626,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-66"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_2499968=7.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3024727,AVERAGE-BANDWIDTH=2749754,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-1,AUDIO="audio-AACL-99"
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_2499968=7.m3u8
+#EXTINF:1, TVRI SPort
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/tvrisport.m3u8
+#EXTINF:1, ArenaBola 1
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/arenabola1.m3u8
+
+#EXTINF:-1, MX: SKY SPORTS LA LIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1, SKYSPORTS FOOTBALL
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1, US: BEIN SPORTS
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
