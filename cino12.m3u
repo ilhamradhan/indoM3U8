@@ -2,24 +2,4 @@
 #EXTINF:-1 tvg-id="RCTI - [Channel 20].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png" group-title="TV Nasional ",RCTI
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://raw.githubusercontent.com/warningfm/kano/main/video/ts/mn1.m3u8
-#EXTINF:1, SCTVHD
-https://raw.githubusercontent.com/warningfm/kano/main/video/ts/204.m3u8
-#EXTINF:1, MNCTV
-https://raw.githubusercontent.com/warningfm/kano/main/video/ts/mn2.m3u8
-#EXTINF:1, Trans7
-https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/id/cdd283c9d3d43b6.m3u8
-#EXTINF:1, TransTV
-https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/id/61061784f4a9270.m3u8
-
-#EXTINF:1, TVRI SPort
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/tvrisport.m3u8
-#EXTINF:1, ArenaBola 1
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/arenabola1.m3u8
-
-#EXTINF:-1, MX: SKY SPORTS LA LIGA
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1, SKYSPORTS FOOTBALL
-http://181.78.106.127:9000/play/ca028/index.m3u8
-#EXTINF:-1, US: BEIN SPORTS
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+https://allcutv.rctiplus.id/rcti2023.m3u8
